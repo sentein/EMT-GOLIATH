@@ -1,1 +1,1 @@
-These metric files have been revised to work with the more common 20mm O.D. pipes. These have not been printed and tested as i do not have access to 20mm tube. Please be sure to test print anverify the sizing is correct before going full ham and printing everything.
+These metric files have been revised to work with the more common 20mm O.D. pipes. These have not been printed and tested as i do not have access to 20mm tube. Please be sure to test print and verify the sizing is correct before going full ham and printing everything.
